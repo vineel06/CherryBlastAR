@@ -80,3 +80,7 @@ Turn your fingers into a virtual gun:
 ```bash
 pip install -r requirements.txt
 ```
+
+Download
+Ready‑to‑play Windows executable:  
+[Download CherryBlastAR.exe](https://github.com/vineel06/CherryBlastAR/releases/latest)
